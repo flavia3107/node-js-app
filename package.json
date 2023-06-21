@@ -1,0 +1,14 @@
+{
+  "name": "2.-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lesson-2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flavia Kosti",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
